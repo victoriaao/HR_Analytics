@@ -1,7 +1,7 @@
 # Palmoria_Group
 
 # Use Case
-Use Case Summary: Analysis on Palmoria HR data.
+Summary: Analysis on Palmoria HR data.
 
 • Objective Statement:
 - Get business insight about issues bordering on gender inequality in its 3 regions.
