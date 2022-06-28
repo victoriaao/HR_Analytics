@@ -26,7 +26,7 @@ Dataset have a lot missing values.
 Data of manufacturing company based in Nigeria
 - Source Data: Ultiva
 - The dataset has 6 columns and 1016 rows.
-Data Dictionary:
+  Data Dictionary:
 - Name: Employee names
 - Gender: Employee gender.
 - Department: Company department names.
