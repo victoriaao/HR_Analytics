@@ -1,7 +1,7 @@
-# Palmoria_Group
+
 
 # Use Case
-Summary: Analysis on Palmoria HR data.
+Summary: Analysis on HR data.
 
 • Objective Statement:
 - Get business insight about issues bordering on gender inequality in its 3 regions.
@@ -13,7 +13,6 @@ Dataset have a lot missing values.
 
 # Methodology / Analytic Technique:
 - Descriptive analysis
-- Graph analysis
 
 # Expected Outcome:
 - Identify the department and regions that should be the focus of management 
@@ -23,8 +22,6 @@ Dataset have a lot missing values.
 - Personal recommendation.
 
 # Data Understanding
-Data of manufacturing company based in Nigeria
-- Source Data: Ultiva
 - The dataset has 6 columns and 1016 rows.
   ## Data Dictionary:
 - Name: Employee names
@@ -44,8 +41,8 @@ Tools Used:
 - There are about 4.5% of Null salary in the data. We need to remove them from the analysis. There is no way we can get the amount paid to these employees.
 
 # Insights
-- Palmoria has 12 departments spread across three regions: Kaduna, Abuja, and Lagos. Seven departments pay male employees more.
-- Palmoria employs more men; the Palmoria Group employs 946 people, including 441 females, 465 males, and 40 people of unknown gender.
+- There are 12 departments spread across three regions: Kaduna, Abuja, and Lagos. Seven departments pay male employees more.
+- More men are employed; A total 946 people are employed, including 441 females, 465 males, and 40 people of unknown gender.
 - Male employees are paid $34,777,130, while female employees are paid $31,811,840. This could also be due to the fact that she has a large number of male employees.
 - The region of Kaduna has the most employees and pays her employees the most of any region, while the region of Lagos has the fewest.
 - In Abuja and Lagos, there are significant gender pay disparities.
